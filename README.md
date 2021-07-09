@@ -215,56 +215,49 @@
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(116).pdf" style="text-decoration:none;">Concepts and limitations for learning developmental trajectories from single cell genomics</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(117).pdf" style="text-decoration:none;">Laplacian eigenmaps and principal curves for high resolution pseudotemporal ordering of single-cell RNA-seq profiles</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(118).pdf" style="text-decoration:none;">VeTra: a tool for trajectory inference based on RNA velocity</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(119).pdf" style="text-decoration:none;">Pseudo-temporal ordering of individual cells reveals dynamics and regulators of cell fate decisions</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(120).pdf" style="text-decoration:none;">redPATH: Reconstructing the Pseudo Development Time of Cell Lineages in Single-Cell RNA-Seq Data and Applications in Cancer</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
-of an Email Pseudonym Server</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(121).pdf" style="text-decoration:none;">On the Mathematics of RNA Velocity I: Theoretical Analysis</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(122).pdf" style="text-decoration:none;">HopLand: single-cell pseudotime recovery using continuous Hopfield network-based modeling of Waddington's epigenetic landscape</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(123).pdf" style="text-decoration:none;">Topslam: Waddington Landscape Recovery for Single Cell Experiments</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(124).pdf" style="text-decoration:none;">Oort: User-Centric Cloud Storage with Global Queries</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(124).pdf" style="text-decoration:none;">Diffusion maps for high-dimensional single-cell analysis of differentiation data</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(125).pdf" style="text-decoration:none;">Peer-to-Peer Communication Across Network Address Translators</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(125).pdf" style="text-decoration:none;">SCODE: an efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(126).pdf" style="text-decoration:none;">On the Feasibility of Peer-to-PeerWeb Indexing and Search</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(126).pdf" style="text-decoration:none;">Cell lineage inference from SNP and scRNA-Seq data</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(127).pdf" style="text-decoration:none;">Packrat Parsing:
-a Practical Linear-Time Algorithm with Backtracking</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(127).pdf" style="text-decoration:none;">Tempora: cell trajectory inference using time-series single-cell RNA sequencing data</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(128).pdf" style="text-decoration:none;">Packrat Parsing:
-Simple, Powerful, Lazy, Linear Time</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(128).pdf" style="text-decoration:none;">Single cell genomics: from phenomenology to mechanism</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(129).pdf" style="text-decoration:none;">Parsing Expression Grammars:
-A Recognition-Based Syntactic Foundation</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(129).pdf" style="text-decoration:none;">GeneSwitches : Ordering gene-expression and functional events in single-cell experiments</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(130).pdf" style="text-decoration:none;">Pastwatch: a Distributed Version Control System </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(130).pdf" style="text-decoration:none;">Design and computational analysis of single-cell RNA-sequencing experiments </a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(131).pdf" style="text-decoration:none;">Easy Freshness with Pequod Cache Joins</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(131).pdf" style="text-decoration:none;">Scanpy for analysis of large-scale single-cell gene expression data</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(132).pdf" style="text-decoration:none;">Defining cell types and states with single-cell genomics</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
-File and Storage Technologies</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(133).pdf" style="text-decoration:none;">TASIC: determining branching models from time series single cell data</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(134).pdf" style="text-decoration:none;">Providing Asynchronous File I/O
-for the Plan 9 Operating System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(134).pdf" style="text-decoration:none;">Reversed graph embedding resolves complex single-cell trajectories</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(135).pdf" style="text-decoration:none;">Efficient patch-based auditing for web application vulnerabilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(135).pdf" style="text-decoration:none;">Pseudotime estimation: deconfounding single cell time series</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(136).pdf" style="text-decoration:none;">Prolac: a language for protocol compilation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(137).pdf" style="text-decoration:none;">Flexible and Efficient Sharing of Protected Abstractions</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(138).pdf" style="text-decoration:none;">Retroactive Auditing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(139).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(136).pdf" style="text-decoration:none;">destiny: diffusion maps for large-scale singlecell data in R</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(137).pdf" style="text-decoration:none;">Reconstructing the temporal ordering of biological samples using microarray data</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(138).pdf" style="text-decoration:none;">PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cataloging-Pseudotime-Based-Algorithm-Papers/blob/master/c(139).pdf" style="text-decoration:none;">switchde: inference of switch-like differential expression along single-cell trajectories</a></li>
  </ul>
    
    
